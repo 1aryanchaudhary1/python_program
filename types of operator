@@ -1,0 +1,83 @@
+#TYPES OF OPERATOR
+#An operator is a symbol that performs a certain operation between operands
+#arithemetic operator 
+'''a=5
+b=2
+sum = a+b
+product= a*b
+division= b/a #it will always give result in float 
+diff = a-b
+remainder = b%a
+exponent = b**a # to find the power of something be will be thebase and a will be the power
+print(sum) #also print(a+b)
+print(product)
+print(division)
+print(diff)
+print(remainder)
+print(exponent)'''
+
+
+
+# relational operator IT GIVES THE ANSWER IN BOOLEAN DATATYPE when we using the relational database it mean the expression tend to give whether that it is true or false hence it gives answer in true and false
+"""a=50
+b=20
+print(a==b)
+print(a!=b)
+print(a>b)
+print(a<b)
+print(a>=b)
+print(a<=b)"""
+  #Assignment operator 
+'''num = 10
+num *=5
+print(num)
+num = 10
+num **=5
+print(num)
+num = 10
+num %=4
+print(num)
+num = 10
+num +=5
+print(num)
+num = 10
+num -=5
+print(num)'''
+
+
+#logical operator NOT,AND,OR
+
+'''print(not True) #output = False
+print(not False)  #output = true
+
+a=50
+b=30
+print(not a>b) #output will be false
+print(not a<b) #output will be true'''
+
+# AND OPERATOR   {IT WORKS ON TWO VALUE}               
+# IF ANY ONE OR BOTH OUT OF TWO CONDITION IF FALSE THEN ANSWER WILL BE FALSE                    
+# true and false(and vice versa) gives output false
+# true and true gives output true
+
+'''val1 = False
+val2 = True
+print(val1 and val2)'''
+
+
+
+#OR OPERATOR { IT WORKS ON TWO CONDTION }
+# IF ANY ONE OR BOTH OUT OF TWO CONDITION IF TRUE THEN ANSWER WILL BE TRUE                    
+# true and false(and vice versa) gives output True
+# false and false gives output false
+val1 = False
+val2 = False
+print(val1 or val2)
+
+
+
+
+
+
+
+
