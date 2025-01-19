@@ -77,7 +77,7 @@ print(set1.intersection(set2))   # {1, 3}   common value from both set
 
 
 
-#FIGURE OUT A WAY TO STORESEPARATE VALUES IN THE SET
+#FIGURE OUT A WAY TO STORE A 9 & 9.0 AS SEPARATE VALUES IN THE SET
 
 set = {9,9.0}
 print(set) # output = 9  9 and 9.0 consider to be samme 

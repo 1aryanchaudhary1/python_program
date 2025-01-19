@@ -68,42 +68,45 @@ print(List) '''
 
 
 
-dict = {
-   "table" : ["a piece of furniture","list of facts & figures"],
-   "cat": "a small animal"
-}
-print(dict)
-print(type(dict))
+# dict = {
+#    "table" : ["a piece of furniture","list of facts & figures"],
+#    "cat": "a small animal"
+# }
+# print(dict)
+# print(type(dict))
 
-set= {"python","java","c++","python","javascript","java","python","java","c++","c"}
-print(set)
-print("No of classroom required by all student ;",len(set))
-
-
+# set= {"python","java","c++","python","javascript","java","python","java","c++","c"}
+# print(set)
+# print("No of classroom required by all student ;",len(set))
 
 
 
 
 
-dict = {}
-dict["english"] = 91
-dict["chemistry"] = 85
-dict["fine arts"] = 85
-print(dict)
 
 
-set = {9,9.0}
-print(set) # output = 9  9 and 9.0 consider to be samme 
-# or 
-set= {9,"9.0"}
-print(set)
+# dict = {}
+# dict["english"] = 91
+# dict["chemistry"] = 85
+# dict["fine arts"] = 85
+# print(dict)
 
-# or 
-set = {
-("float",9.0),
-("int",9)
-}
-print(set)
+
+# set = {9,9.0}
+# print(set) # output = 9  9 and 9.0 consider to be samme 
+# # or 
+# set= {9,"9.0"}
+# print(set)
+
+# # or 
+# set = {
+# ("float",9.0),
+# ("int",9)
+# }
+# print(set)
+
+
+
 
 
 

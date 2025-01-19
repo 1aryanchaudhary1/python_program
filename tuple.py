@@ -30,4 +30,4 @@ print(grade.count("A"))
 #store the above values in the list an sort them form "A" to "D"
 grade = ["C","D","A","A","B","B","A"]
 grade.sort()
-print(grade)
+print(grade[0])
